@@ -29,3 +29,5 @@ fields:
   config:
     maxSize: 64
   label: image
+pages:
+- _posts/Iefan.md
