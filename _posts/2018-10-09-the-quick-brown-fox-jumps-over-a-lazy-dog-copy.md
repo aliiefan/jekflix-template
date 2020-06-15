@@ -1,7 +1,7 @@
 ---
-date: 2018-10-09T12:26:40.000+00:00
+date: 2020-06-15 18:30:00 +0000
 layout: post
-title: Iefan
+title: 'Centre is heading to stop water flowing into pak: Gadkari'
 subtitle: 'Centre work to stop water flowing into pakistan: Gadkari'
 description: Stating that water of India’s share from three of six rivers in “Akhand
   Bharat” is flowing into Pakistan, Union minister Nitin Gadkari on Sunday said the
