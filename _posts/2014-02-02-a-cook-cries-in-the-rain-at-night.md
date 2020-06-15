@@ -13,17 +13,14 @@ image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592087370/1_zkflig.pn
 optimized_image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592087370/1_zkflig.png
 category: []
 tags:
-- cook
-- cucine
-- story
+- Politic
+- 'Bjp '
 author: 'SHIVAM VIJ '
 
 ---
 The surveys can’t be true: Modi’s popularity has taken a beating with migrant crisis
 
 ## The idea that nothing hurts Modi is bunkum. He gets too much credit for the opposition’s inability to seize opportunities.
-
-[**SHIVAM VIJ**](https://theprint.in/author/shivam-vij/ "Posts by Shivam Vij") 20 May, 2020 12:47 pm_File photo of Prime Minister Narendra Modi | Kamal Singh/PTI_
 
 > Some surveys have suggested that Prime Minister Narendra Modi’s popularity ratings have shot up, with people approving handling of the pandemic. It’s been a few weeks since these surveys came out last. People’s patience with the economic cost of the lockdown had not begun running out yet and the migrant crisis had not peaked.
 >
