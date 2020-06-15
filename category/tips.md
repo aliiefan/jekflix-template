@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Politic
-slug: tips
+slug: Politic
 description: A category for tips.
 
 ---
