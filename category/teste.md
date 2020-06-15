@@ -1,6 +1,7 @@
 ---
 layout: category
-title: Teste
+title: Kashmir
 slug: "{{slug}}"
-description: teste
+description: Kashmir
+
 ---
