@@ -1,5 +1,5 @@
 ---
-date: 2020-06-16 00:00:00 +0000
+date: 2020-06-15 00:00:00 +0000
 layout: post
 title: what is the single greatest thing we could do to prevent mental health problems?
 subtitle: 'Mental Health Awareness Week is a time to ask big questions. Here is a
