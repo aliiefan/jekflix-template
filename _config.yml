@@ -1,14 +1,17 @@
 ---
 name: TSJ
 title: The Secret Jounals
-description: Explore With Us
+description: 'India''s digital platform for latest news and reports, insightful analyses,
+  opinion on politics, policy, governance, economy, education, defence and culture.
+
+'
 tags:
 - blog
 - template
 - jekyll
 - theme
 - netlify
-email: youremail@xyz.com
+email: Gmail@iefan.tech
 disqus_username: disqus_username
 show_hero: true
 menu:
