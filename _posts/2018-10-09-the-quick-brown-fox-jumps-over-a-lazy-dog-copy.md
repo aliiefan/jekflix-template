@@ -2,126 +2,30 @@
 date: 2018-10-09T12:26:40.000+00:00
 layout: post
 title: Iefan
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592087370/1_zkflig.png
-optimized_image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592087370/1_zkflig.png
-category: css
+subtitle: 'Centre work to stop water flowing into pakistan: Gadkari'
+description: Stating that water of India’s share from three of six rivers in “Akhand
+  Bharat” is flowing into Pakistan, Union minister Nitin Gadkari on Sunday said the
+  Central government is “trying to stop” this outflow.
+image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592247268/Screenshot_2020-06-16_at_00.19.42_ld9sml.png
+optimized_image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592247268/Screenshot_2020-06-16_at_00.19.42_ld9sml.png
+category:
+- Kashmir
+- Politic
+- BJP
+- Pakistan
 tags:
-- css
-- tips
-author: thiagorossener
+- Kashmir
+- Politic
+- BJP
+- Pakistan
+author: Kashmir News Alert
 
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
-## Inline HTML elements
-
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+> > #### Stating that water of India’s share from three of six rivers in “Akhand Bharat” is flowing into Pakistan, Union minister Nitin Gadkari on Sunday said the Central government is “trying to stop” this outflow.  
+> >   
+> > He said Jammu and Kashmir, Punjab, Rajasthan, Delhi, Uttarakhand and Himachal Pradesh “will get this water”. Addressing virtual ‘Jan Samvad’ rally of Gujarat BJP from Nagpur in Maharashtra, he also said India believed in peace and non-violence and do not want to be strong by becoming an expansionist. “There were six rivers in Akhand Bharat (passing through both India and Pakistan. As per division, waters of three rivers was reserved for Pakistan, while water of other three rivers was to be used by India. Water of our share was also flowing into Pakistan,” Gadkari said as per news agency.  
+> >   
+> > He said states of Punjab, Haryana, Rajasthan, Uttar Pradesh, Uttarakhand, Himachal Pradesh were not coming together on this issue earlier. “For the first time since 1970, I asked our (former J&K governor Satya Pal Malik and Punjab Congress CM (Amarinder Singh) to sign a treaty. We are working to stop the water from flowing into Pakistan. Now Kashmir, Punjab, Rajasthan, Delhi, Uttarakhand and Himachal will get this water. Our government shows the courage to take this decision, otherwise nothing has happened since 1970,” he said.  
+> >   
+> > He said, “Seven out of nine projects where consensus had eluded states earlier have been cleared after CMs of these states were brought together to resolve the matter”. Gadkari also added that India does not want to grab the land belonging to its neighbours Pakistan and China and wishes to only maintain peace in the region, PTI reported. His remarks came amid border tensions between India and China. “We should not make India strong by becoming expansionist, we should make India strong for establishing peace,” Gadkari said. “We never tried to grab land of Bhutan. Our country made Sheikh Mujibur Rahman the Prime Minister of Bangladesh after winning the war and our soldiers returned thereafter.”  
+> > We took not a single inch of land,” the union minister added. “We do not want land either of Pakistan or China. All we want is peace, amity & love.
