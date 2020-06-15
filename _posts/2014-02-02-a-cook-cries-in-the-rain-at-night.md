@@ -9,8 +9,8 @@ description: Some surveys have suggested that Prime Minister Narendra Modi’s p
   a few weeks since these surveys came out last. People’s patience with the economic
   cost of the lockdown had not begun running out yet and the migrant crisis had not
   peaked.
-image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592087370/1_zkflig.png
-optimized_image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592087370/1_zkflig.png
+image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592251924/Screenshot_2020-06-16_at_01.41.15_fm9k6e.png
+optimized_image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592251924/Screenshot_2020-06-16_at_01.41.15_fm9k6e.png
 category: []
 tags:
 - Politic
