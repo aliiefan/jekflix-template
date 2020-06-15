@@ -1,5 +1,5 @@
 ---
-date: 2017-06-04T12:00:00.000+00:00
+date: 2020-06-15 12:00:00 +0000
 layout: post
 title: Surveys can't be true Modi's image has been beaten up migrant crisis
 subtitle: The idea that nothing hurts Modi is bunkum. He gets too much credit for
