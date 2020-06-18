@@ -14,9 +14,7 @@ tags:
 author: thiagorossener
 
 ---
-    {% youtube "https://youtu.be/-HBlF470n1I" %}
-
-{% youtube "[https://youtu.be/-HBlF470n1I](https://youtu.be/-HBlF470n1I "https://youtu.be/-HBlF470n1I")" %}
+{% youtube "https://youtu.be/-HBlF470n1I" %}
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
