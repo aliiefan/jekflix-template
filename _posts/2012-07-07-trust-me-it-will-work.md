@@ -14,9 +14,14 @@ tags:
 author: thiagorossener
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-HBlF470n1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+\[!\[\](![](http://img.youtube.com/vi/-HBlF470n1I/0.jpg))\]([http://www.youtube.com/watch?v=-HBlF470n1I](http://www.youtube.com/watch?v=-HBlF470n1I "http://www.youtube.com/watch?v=-HBlF470n1I") "")
+
+click to watch
+
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. _Aenean eu leo quam._ Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
+> 
+>
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
