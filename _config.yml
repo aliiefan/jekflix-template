@@ -69,6 +69,7 @@ sass:
 plugins:
 - jekyll-paginate
 - jekyll-paginate-content
+- [jekyll-youtube]
 exclude:
 - package.json
 - package-lock.json
