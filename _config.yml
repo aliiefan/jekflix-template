@@ -67,7 +67,6 @@ paginate_content:
 sass:
   style: compressed
 plugins:
-- jekyll-menu
 - jekyll-paginate
 - jekyll-paginate-content
 - jekyll-youtube
