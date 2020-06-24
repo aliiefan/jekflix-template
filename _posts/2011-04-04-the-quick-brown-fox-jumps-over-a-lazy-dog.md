@@ -1,5 +1,5 @@
 ---
-date: 2020-06-24 12:26:40 +0000
+date: 2020-06-22 18:30:00 +0000
 layout: post
 title: 'Explained: Why Russia has emerged a key player amid India, China tensions'
 subtitle: Russia has emerged, all of a sudden, as a key diplomatic player amid the
