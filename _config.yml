@@ -21,8 +21,6 @@ menu:
   url: "/about"
 - title: Contact
   url: "/contact"
-- title: history
-  url: "/History"
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
