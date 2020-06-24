@@ -70,6 +70,7 @@ plugins:
 - jekyll-paginate
 - jekyll-paginate-content
 - jekyll-youtube
+- jekyll-menus 
 exclude:
 - package.json
 - package-lock.json
