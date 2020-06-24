@@ -1,30 +1,23 @@
 ---
-date: 2020-06-24 12:26:40 +0000
+date: 2018-10-09T12:26:40.000+00:00
 layout: post
 title: 'Explained: Why Russia has emerged a key player amid India, China tensions'
-subtitle: Russia has emerged a key player amid tensions between India and China.
-description: Russia has emerged a key player amid tensions between India and China.
-  A look at how Russia’s ties with China have grown over the decades, and how New
-  Delhi and Moscow have engaged over the current crisis.
+subtitle: Russia has emerged, all of a sudden, as a key diplomatic player amid the
+  tension between India and China.
+description: Russia has emerged, all of a sudden, as a key diplomatic player amid
+  the tension between India and China.
 image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592972030/Screenshot_2020-06-24_at_09.43.22_nop9r5.png
 optimized_image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592972030/Screenshot_2020-06-24_at_09.43.22_nop9r5.png
 category:
-- 'india china '
-- news
 - india china news
-- india russia news
-tags:
 - india china
-- news
-- india russia
-- galwan valley
-- ladakh
-author: " Shubhajit Roy"
+- 'news '
+- russia news
+- gulwan valley
+tags: []
+author: " Shubhajit Roy "
 
 ---
-
-Russia President Vladimir Putin with China’s Xi Jinping (then Vice President) in Beijing in 2012. The two countries have grown closer over the past few decades. (Express Archive)
-
 Russia has emerged, all of a sudden, as a key diplomatic player amid the tension between India and [China](https://indianexpress.com/article/world/china-coronavirus-tracker-region-wise-cases-and-deaths/).
 
 __*__ On Tuesday, Russian Foreign Minister Sergei Lavrov hosts the Russia-India-China (RIC) trilateral foreign ministers’ meeting, which will be the first opportunity for External Affairs Minister S Jaishankar and Chinese Foreign Minister Wang Yi for face-time with each other over videoconference. Jaishankar and Wang, who is also Chinese State Councillor, had an angry phone call on June 17 over the June 15 border clash, in which [**20 Indian soldiers were killed**](https://indianexpress.com/article/india/india-china-border-20-armymen-killed-galwan-valley-6462517/).
