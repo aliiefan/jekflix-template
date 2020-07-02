@@ -25,7 +25,8 @@ author: 'Nikhil Sangwan '
 
 ![](https://img.dtnext.in/Articles/2020/Jun/202006290049067901_Police-brutality-a-legacy-of-shame-in-India_SECVPF.gif)
 
-  
+By Nikhil Sangwan
+
 Causes=) The hideous police brutality that rocked the United States is a daily occurrence in India , but unfortunately it doesn't spark the kind of outrage that can change the system . We've a criminal system that discourages prosecutors from pursuing police misconduct vigorously. In India , we all know about the gratuitous police beatings and custodial deaths and the indifference of politician to blatant state voilence .The problem is , As a society , we believe that the police have the right to be brutal , voilent and break the laws that they were sworn to uphold. But , Is vengeance the job if the police? And is the justice is same as vengeance.? Vicious police brutality, systematic atrocities, is not enough to get us on the streets.
 
 > Article 21 of Indian constitution states:
