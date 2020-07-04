@@ -5,7 +5,7 @@ description: Some description.
 permalink: "/about/"
 
 ---
-<img class="img-rounded" src="![](https://res.cloudinary.com/dr7lswyf4/image/upload/v1592183040/Screenshot_2020-06-15_at_06.31.40_ppldrm.png)" alt="Ali Iefan" width="200">
+##              The Secret Journals
 
 ### Instead of the traditional models of family-owned, corporate-funded and controlled or advertising-driven newspapers, websites and TV channels, can we reimagine the media as a joint venture in the public sphere between journalists, readers and a concerned citizenry? One in which decisions over what to cover and how, who to hire and where to send a correspondent or photographer, are taken by editors on the basis of professional judgment, without worrying about what a proprietor or politician, official or advertiser might think or want.
 
