@@ -6,11 +6,12 @@ description: 'India''s digital platform for latest news and reports, insightful 
 
 '
 tags:
-- blog
-- template
-- jekyll
-- theme
-- netlify
+- India
+- China
+- Pakistan
+- BJP
+- Tech
+- Politics
 email: Gmail@iefan.tech
 disqus_username: disqus_username
 show_hero: true
