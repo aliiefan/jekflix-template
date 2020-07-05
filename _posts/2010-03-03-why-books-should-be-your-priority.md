@@ -1,63 +1,52 @@
 ---
-date: 2020-06-23 12:26:40 +0000
+date: 2018-11-22T12:26:40.000+00:00
 layout: post
-title: Unpacking the China-Russia ‘alliance’
-subtitle: Unpacking the China-Russia ‘alliance’
-description: Unpacking the China-Russia ‘alliance’
-image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592973448/Screenshot_2020-06-24_at_10.06.58_owqysn.png
-optimized_image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592973448/Screenshot_2020-06-24_at_10.06.58_owqysn.png
+title: 'Guru Purnima 2020: Importance, tradition, food and culture'
+subtitle: 'Everything you need to know about Guru Purnima!
+
+'
+description: Guru or teacher has always been considered akin to a God in the Hindu
+  culture. Guru Purnima or Vyasa Purnima is the day to celebrate and pay our gratitude
+  to our Gurus. This Sanskrit word literally translates to ‘the one who frees us of
+  ignorance’.
+image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1593908041/Screenshot_2020-07-05_at_05.44.11_ymklxb.png
+optimized_image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1593908041/Screenshot_2020-07-05_at_05.44.11_ymklxb.png
 category:
-- russia china
-- russia china news
-- russia news
-- china news
+- India
+- festival
 tags:
-- russia china news
-- russia
-- china
-- news
+- 'India '
+- festival
 author: Ali Iefan
 paginate: true
 
 ---
-The United States appears to be settling in for a protracted period of great power military competition. Ever since Russia seized Crimea and militarily intervened in Ukraine, and as China moved onto islands across the South China Sea while claiming almost all surrounding waterways, American defense officials determined that rogue states and terrorist organizations should no longer be the epicenter of war planning and military resource allocation. The third offset strategy of the Obama administration and the national defense strategy of the Trump administration have followed, with their explicit reprioritization of defense objectives. After a quarter-century without major worries over great power competition, we find ourselves in an era that some now consider, rightly or wrongly, echoes the Cold War.
+### 01/5 Everything you need to know about Guru Purnima!
 
-[![Michael O'Hanlon](https://www.brookings.edu/wp-content/uploads/2016/06/ohanlonm.jpg =120x120)](https://www.brookings.edu/experts/michael-e-ohanlon/)
+![](https://static.toiimg.com/thumb/76784854.cms?width=680&height=512&imgsize=278162)
 
-## [Michael E. O’Hanlon](https://www.brookings.edu/experts/michael-e-ohanlon/)
+Guru or teacher has always been considered akin to a God in the Hindu culture. Guru Purnima or Vyasa Purnima is the day to celebrate and pay our gratitude to our Gurus. This Sanskrit word literally translates to ‘the one who frees us of ignorance’. This full moon day in the month of Ashada is one of the most auspicious days of the year in Hinduism. India will celebrate Guru Purnima on July 5, 2020. It also commemorates the birthday of Ved Vyasa, who is credited to have authored some of the most important Hindu texts of all times such as the Puranas, Mahabharata and Vedas.
 
-### Senior Fellow - [Foreign Policy](https://www.brookings.edu/program/foreign-policy/)
+### 02/5 ​History of Guru Purnima
 
-### Director of Research - [Foreign Policy](https://www.brookings.edu/program/foreign-policy/)
+![](https://static.toiimg.com/thumb/76785007.cms?width=680&height=512&imgsize=1351612)
 
-### The Sydney Stein, Jr. Chair
+Guru Purnima honours Ved Vyasa, known as one of the most honoured Gurus of ancient India. Senior Ayurvedic consultant Dr Vishakha Mahindroo says, “Veda Vyasa, structured the four Vedas, composed the epic of the Mahabharata, created the foundation for the many Puranas and the vast encyclopedias of Hindu sacred lore. Guru Purnima represents the date on which Lord Shiva as the Adi Guru or original guru taught the seven rishis who were the seers of the Vedas. In the Yoga Sutras, Ishvara as Pranava or Om is said to be the Adi Guru of Yoga. Lord Buddha was said to have delivered his first sermon on this day at Sarnath, reflecting the power of this sacred time.”
 
-[**MichaelEOHanlon**](http://www.twitter.com/MichaelEOHanlon)
+### 03/5 ​Importance of Guru Purnima
 
-[A](https://www.brookings.edu/author/adam-twardowski/)
+![](https://static.toiimg.com/thumb/76784996.cms?width=680&height=512&imgsize=490288)
 
-## [Adam Twardowski](https://www.brookings.edu/author/adam-twardowski/)
+Guru Purnima is celebrated to honour our teachers, who remove the darkness from our minds. They have a special place in the lives of their followers since ancient times. All the holy books of Hinduism dictate the importance of Gurus and the extraordinary bond between a Guru and his Shishya (disciple). An age-old Sanskrit phrase 'Mata Pitah Guru Daivam', says that the first place is reserved for the mother, second for the father, third for Guru and forth for God. Thus, teachers have been given a higher place than Gods in Hindu tradition.
 
-### Research Assistant - Foreign Policy, Security and Strategy, The Brookings Institution
+### 04/5​ How to celebrate Guru Purnima?
 
-[**TwardowskiDC**](http://www.twitter.com/TwardowskiDC)
+![](https://static.toiimg.com/thumb/76784986.cms?width=680&height=512&imgsize=1257842)
 
-China and Russia no longer share a common expansionist ideology, but realpolitik considerations are driving them together. Both are subject to American sanctions of various types. Both have also found themselves in the crosshairs of Pentagon defense planners as a result of their assertive regional activities, with Russia mostly in Eastern Europe and the Middle East, and China mostly in the Western Pacific, but both partially across regions as far away as Latin America as well as Africa. Both recognize that to stand up alone against an established alliance system led by the United States is very difficult, as neither has any truly powerful allies of its own.
+Guru Purnima is usually celebrated by worshipping and expressing gratitude to the Gods who are like our Gurus. In monasteries and ashrams, disciples offer prayers in the honour of their teachers. Dr Vishakha suggests what to do on Guru Purnima, “On this day, one should dedicate oneself to following the guru’s principle and teachings and put them into practice. Guru Purnima has the importance of Vishnu puja attached to it. 'Vishnu Sahatranam' also known as the thousand names of Lord Vishnu should be recited on this day. Be in sync with self and channelise your energies on this auspicious day.”
 
-Yet together they dominate Eurasia and their strengths complement each other. One is a huge land mass with nuclear weapons and hydrocarbons, but it has a modest and shrinking population. The other is an economic superpower and second in conventional military power by most metrics. Some look at this and conclude that China and Russia will become natural allies as time goes on. Others say such an assessment is nonsense given their mutual mistrust and indeed the very proximity that could help them work together. How can Washington resolve this contradiction? We would propose that much of the answer is in unpacking what an alliance means.
+### 05/5 ​Fasting & feasting and food culture
 
-### Related Book
+![](https://static.toiimg.com/thumb/76784980.cms?width=680&height=512&imgsize=1158435)
 
-### [The Senkaku Paradox](https://www.brookings.edu/book/the-senkaku-paradox/)
-
-* By [**Michael E. O’Hanlon**](https://www.brookings.edu/experts/michael-e-ohanlon/)
-
-  2019
-
-There are at least four ways to look at the term. The first is transactional cooperation where economic and other critical interests coincide. Arms sales are often the key element of this type of alliance. The second adds largely symbolic cooperation on minor military exercises or collaborative military training. The third further adds a willingness to share intelligence, posture forces, and conduct peaceful exercises and provocations against mutual adversaries. The fourth includes formal defense pacts centered on mutual defense pledges that promise more or less unconditional military assistance with combat forces in the event that either finds itself at war.
-
-The last is what the United States has with its closest allies such as Japan, South Korea, and most nations in the North Atlantic Treaty Organization, but that is not the only way in which the term is meaningful. Defined in this way, the first two elements of a possible alliance are often relatively benign and often hard to prevent in any case. The real task for American policymakers, therefore, is to conduct United States foreign policy in a way that the security relationship between Russia and China will remain limited in these domains, without progressing very far into the third way.
-
-Unfortunately, there are already examples that Russia and China have done considerably more, especially in Eastern Europe and the Western Pacific. Even in Africa, Moscow and Beijing appear to be exploring new ways of cooperating far away from the contentious European and Asian theaters. Last month, Russia and China conducted a joint naval drill with South Africa near the Cape of Good Hope, a strategic crossroads where the Atlantic Ocean and Indian Ocean converge. While the South African military described the drill as a basic “multinational task force to react to and counter security threats at sea,” the message conveyed by growing Russian and Chinese interests in the continent has become very clear.
-
-Moreover, while China has already established its first overseas military base in Djibouti in part to protect its interests on the continent, Russia also seeks to be a bigger player in Africa, mainly through weapons sales and cooperation agreements in a host of areas from military training to nuclear technology. It seems likely that Russia and China will continue to find ways to leverage their combined military and economic clout across Africa. Given that the United States and Europe have real interests there, thinking about ways to counteract or at the very least monitor Russian and Chinese designs is one way to strengthen their positions in the continent.
+Many people fast during the day, refraining to eat salt, rice, heavy foods such as non-vegetarian dishes and other meals made of cereals. Only eating yoghurt or fruits is allowed. They break their fast after performing puja in the evening. The temples distribute Prasada and Charnamrita, containing fresh fruits and sweetened curd. Most households also follow a strict vegetarian diet on Guru Purnima, eating delicacies like Khichdi, Poori, Choley, Halwa and sweets like Soan Papdi, Barfi, Laddoo, Gulab Jamun etc.
