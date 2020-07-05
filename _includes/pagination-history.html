@@ -1,6 +1,6 @@
 <!-- Pagination links -->
 {% if paginator.page_trail %}
-    {% assign next_posts = site.history | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" | where_exp:"post","post.date <= page.date" %}
+    {% assign next_history = site.history | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" | where_exp:"post","post.date <= page.date" %}
     <div class="pagination pagination-post {{ include.extra_classes }}">
         {% if paginator.is_last != true %}
             <a href="{{ paginator.next_page_path }}">
