@@ -1,44 +1,33 @@
 ---
-date: 2020-07-02 18:30:00 +0000
+date: 2020-07-03 18:30:00 +0000
 layout: post
-title: 'Government would complete the ambitious China-Pakistan Economic Corridor (CPEC)
-  at “any cost” : Imran Khan'
-subtitle: Pakistan Prime Minister Imran Khan vowed on Friday that his government would
-  complete the ambitious China-Pakistan Economic Corridor (CPEC) at “any cost” as
-  the USD 60 billion project is a manifestation of the all-weather friendship between
-  the two countries.
-description: Addressing a meeting held here to review progress on the CPEC projects,
-  Khan said it is an excellent project for Pakistan’s socio-economic development and
-  the “gigantic multi-faceted initiative would guarantee a bright future for the nation”,
-  the Dawn newspaper reported.
-image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1593868414/Screenshot_2020-07-04_at_18.41.34_srynmc.png
-optimized_image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1593868414/Screenshot_2020-07-04_at_18.41.34_srynmc.png
+title: Maxican couple embraced islam after watching ertugrul
+subtitle: Maxican couple embraced islam after watching ertugrul
+description: Maxican couple embraced islam after watching ertugrul
+image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1593960606/Screenshot_2020-07-05_at_20.19.50_qzjnbx.png
+optimized_image: https://res.cloudinary.com/dr7lswyf4/image/upload/v1593960606/Screenshot_2020-07-05_at_20.19.50_qzjnbx.png
 category:
-- China pakistan
+- Web Series
+- 'ertugrul '
 tags:
-- China pakistan
+- 'ertugrul '
+- Web Series
 author: Ali Iefan
 
 ---
+Diriliş: Ertuğrul is a famous Tv series which has shattered almost all the previous records of any Turkish serials. The historical tv drama is based on the life events of Ertugrul Gazi, father of Osman Ghazi, the founder of Great Ottoman Empire.  
   
-Pakistan Prime Minister Imran Khan vowed on Friday that his government would complete the ambitious China-Pakistan Economic Corridor (CPEC) at “any cost” as the USD 60 billion project is a manifestation of the all-weather friendship between the two countries.  
+The Muslim empire ruled on vast area of lands including Asia and Europe. The show signifies the strength of a Muslim man who cares much for Allah, Prophet and Islam. The theme of the show attracted millions of Muslim visitors from all over the world.  
+The influence exerted by this show is to such a great extent that a couple from Mexico embraced Islam. Truly, this charismatic show has left a huge mark on the hearts of Muslims who are suffering from every direction. This show helps them realize their glorious past and how their ancestors were.  
   
-Addressing a meeting held here to review progress on the CPEC projects, Khan said it is an excellent project for Pakistan’s socio-economic development and the “gigantic multi-faceted initiative would guarantee a bright future for the nation”, the Dawn newspaper reported.  
+The couple reverted last year when they met Celal Al who played Abdurrahman Alp in the show. The couple recited Shahada (Islamic declaration of faith) in Celal’s presence when he was in the United States.  
+It would be unwise to say that they accepted Islam in fervor rather after watching this show they did deep research and managed to throw away the dirt imposed on Islam’s image by western media and found out the jewel which we know as Islam.  
   
-Lauding the performance of the CPEC Authority, he said measures must be taken to improve its working as well as capacity.  
+The couple was gifted two copies of Qur’an; one in English and the other in Spanish by Celal.  
+He was there to attend the 22nd annual meeting of the Muslim American Society (MAS), a flagship Muslim organization, and gave a speech about the series and Turkey.  
   
-The corridor is a manifestation of Pakistan-China friendship and the government will complete it at any cost and bring its fruit to every Pakistani, Khan said.  
+The couple after reverting to Islam said, “‘’We were affected by Turkish TV series ”Resurrection: Ertuğrul’’ and Turkey’s humanitarian activities around the world, and then decided to become Muslim.”  
   
-Khan’s statement came a day after Chinese Foriegn Minister Wang Yi discussed the CPEC projects with his Pakistani counterpart Shah Mahmood Qureshi during a phone conversation.  
+Ertugrul has garnered much attention from among Muslims for the portrayal of people who were true Muslims but also brought criticism. Famous Islamic scholar Dr Zakir Naik has called the show Less Haram and un-Islamic to watch.  
   
-Wang called for the two countries to speed up the projects under the CPEC to help Pakistan’s economic recovery. He also hoped that the Pakistani government would provide more protection for Chinese companies and citizens working in the country.  
-  
-The CPEC, which connects Gwadar Port in Pakistan’s Balochistan with China’s Xinjiang province, is the flagship project of China”s ambitious multi-billion-dollar Belt and Road Initiative (BRI).  
-  
-A Chinese official last month admitted that the majority of the projects under the BRI are either adversely or partially affected by the coronavirus pandemic.  
-  
-About a fifth of the projects under the BRI, which aims to boost trade and investment across Asia, Africa and Europe to further China”s global influence, had been “seriously affected” by the pandemic, according to Wang Xiaolong, director-general of the foreign ministry”s international economic affairs department.  
-  
-About 40 per cent of the projects were “adversely affected”, and a further 30-40 per cent were “somewhat affected”, Hong Kong-based South China Morning Post quoted Wang as saying.  
-  
-The projects which were disrupted included the CPEC, it said.
+Nevertheless, the show has maintained its charisma and even four years after its actual release dominating the hearts and market.
