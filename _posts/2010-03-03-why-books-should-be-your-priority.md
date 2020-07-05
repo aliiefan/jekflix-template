@@ -1,5 +1,5 @@
 ---
-date: 2018-11-22T12:26:40.000+00:00
+date: 2020-07-03 18:30:00 +0000
 layout: post
 title: 'Guru Purnima 2020: Importance, tradition, food and culture'
 subtitle: 'Everything you need to know about Guru Purnima!
